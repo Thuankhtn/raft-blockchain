@@ -1,5 +1,5 @@
 # RAFT-LAB1
-# RAFT P2P Network
+# RAFT P2P Network-INCOMPLETE
 
 Dự án này mô phỏng một mạng phân tán sử dụng thuật toán RAFT để đồng thuận trong một mạng peer-to-peer (P2P). Các nút trong mạng giao tiếp với nhau qua gRPC để thực hiện các cuộc bầu cử, đồng bộ hóa dữ liệu và xử lý các tình huống lỗi.
 
